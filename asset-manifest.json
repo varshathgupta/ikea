@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ikea/static/css/main.4ec60984.chunk.css",
+    "main.js": "/ikea/static/js/main.5f8560d8.chunk.js",
+    "main.js.map": "/ikea/static/js/main.5f8560d8.chunk.js.map",
+    "runtime-main.js": "/ikea/static/js/runtime-main.c8e3db75.js",
+    "runtime-main.js.map": "/ikea/static/js/runtime-main.c8e3db75.js.map",
+    "static/js/2.d432c4f4.chunk.js": "/ikea/static/js/2.d432c4f4.chunk.js",
+    "static/js/2.d432c4f4.chunk.js.map": "/ikea/static/js/2.d432c4f4.chunk.js.map",
+    "index.html": "/ikea/index.html",
+    "static/css/main.4ec60984.chunk.css.map": "/ikea/static/css/main.4ec60984.chunk.css.map",
+    "static/js/2.d432c4f4.chunk.js.LICENSE.txt": "/ikea/static/js/2.d432c4f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8e3db75.js",
+    "static/js/2.d432c4f4.chunk.js",
+    "static/css/main.4ec60984.chunk.css",
+    "static/js/main.5f8560d8.chunk.js"
+  ]
+}
